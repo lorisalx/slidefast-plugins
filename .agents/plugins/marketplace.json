@@ -1,0 +1,20 @@
+{
+  "name": "slidefast",
+  "interface": {
+    "displayName": "Slidefast"
+  },
+  "plugins": [
+    {
+      "name": "slidefast",
+      "source": {
+        "source": "local",
+        "path": "./plugins/slidefast"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

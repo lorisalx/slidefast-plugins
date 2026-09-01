@@ -1,0 +1,26 @@
+{
+  "name": "slidefast",
+  "owner": {
+    "name": "Slidefast",
+    "email": "hello@slidefast.io"
+  },
+  "description": "Official Slidefast plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "slidefast",
+      "source": "./plugins/slidefast",
+      "description": "Create, edit, review, export, and publish AI carousels with Slidefast.",
+      "version": "0.3.0",
+      "author": {
+        "name": "Slidefast",
+        "email": "hello@slidefast.io",
+        "url": "https://slidefast.io"
+      },
+      "homepage": "https://slidefast.io/docs/mcp",
+      "repository": "https://github.com/lorisalx/slidefast-plugins",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["carousel", "slides", "social-media", "mcp"]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "slidefast",
+  "displayName": "Slidefast",
+  "version": "0.3.0",
+  "description": "Create, edit, review, export, and publish AI carousels with Slidefast.",
+  "author": {
+    "name": "Slidefast",
+    "email": "hello@slidefast.io",
+    "url": "https://slidefast.io"
+  },
+  "homepage": "https://slidefast.io/docs/mcp",
+  "repository": "https://github.com/lorisalx/slidefast-plugins",
+  "license": "MIT",
+  "keywords": ["carousel", "slides", "linkedin", "instagram", "tiktok", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.claude-mcp.json"
+}

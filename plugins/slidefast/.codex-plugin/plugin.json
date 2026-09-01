@@ -1,0 +1,35 @@
+{
+  "name": "slidefast",
+  "version": "0.3.0",
+  "description": "Create, edit, review, export, and publish AI carousels with Slidefast.",
+  "author": {
+    "name": "Slidefast",
+    "email": "hello@slidefast.io",
+    "url": "https://slidefast.io"
+  },
+  "homepage": "https://slidefast.io/docs/mcp",
+  "repository": "https://github.com/lorisalx/slidefast-plugins",
+  "license": "MIT",
+  "keywords": ["carousel", "slides", "linkedin", "instagram", "tiktok", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Slidefast",
+    "shortDescription": "Create and publish social carousels",
+    "longDescription": "Turn a brief into a branded carousel, refine it with AI, collect client feedback, export to PDF or PNG, and publish to connected social accounts.",
+    "developerName": "Slidefast",
+    "category": "Productivity",
+    "capabilities": ["Create", "Write", "Publish"],
+    "websiteURL": "https://slidefast.io",
+    "privacyPolicyURL": "https://slidefast.io/privacy",
+    "termsOfServiceURL": "https://slidefast.io/terms",
+    "defaultPrompt": [
+      "Create an 8-slide LinkedIn carousel from my brief.",
+      "Improve this carousel and show me the proposed edits.",
+      "Export my approved carousel as a PDF."
+    ],
+    "brandColor": "#7C3AED",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
+  }
+}
