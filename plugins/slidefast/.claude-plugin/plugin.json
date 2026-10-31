@@ -9,9 +9,17 @@
     "url": "https://slidefast.io"
   },
   "homepage": "https://slidefast.io/docs/mcp",
+  "privacyPolicyUrl": "https://slidefast.io/privacy",
   "repository": "https://github.com/lorisalx/slidefast-plugins",
   "license": "MIT",
-  "keywords": ["carousel", "slides", "linkedin", "instagram", "tiktok", "mcp"],
+  "keywords": [
+    "carousel",
+    "slides",
+    "linkedin",
+    "instagram",
+    "tiktok",
+    "mcp"
+  ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json"
 }
