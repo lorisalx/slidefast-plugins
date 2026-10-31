@@ -89,7 +89,7 @@
       },
       "publication": {
         "countries": [],
-        "release_notes": "0.4.0: first public directory release. Remote MCP server (51 tools) with OAuth 2.1 sign-in, plus a Slidefast workflow skill for creating, editing, reviewing, exporting, and publishing carousels.",
+        "release_notes": "0.4.0: first public directory release. Remote MCP server with OAuth 2.1 sign-in, plus a Slidefast workflow skill for creating, editing, reviewing, exporting, and publishing carousels.",
         "translations": {
           "fr-FR": {
             "subtitle": "Créez des carrousels sociaux",
