@@ -10,6 +10,9 @@
   },
   "homepage": "https://slidefast.io/docs/mcp",
   "privacyPolicyUrl": "https://slidefast.io/privacy",
+  "termsOfServiceUrl": "https://slidefast.io/terms",
+  "supportUrl": "https://slidefast.io/docs/mcp#support",
+  "documentationUrl": "https://slidefast.io/docs/mcp",
   "repository": "https://github.com/lorisalx/slidefast-plugins",
   "license": "MIT",
   "keywords": [
